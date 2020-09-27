@@ -1,0 +1,75 @@
+kewajiban| hukdis ringan| Pasal 3| 3| berdampak negatif pada unit kerja|
+kewajiban| hukdis ringan| Pasal 3| 4| berdampak negatif pada unit kerja|
+kewajiban| hukdis ringan| Pasal 3| 5| berdampak negatif pada unit kerja|
+kewajiban| hukdis ringan| Pasal 3| 6| berdampak negatif pada unit kerja|
+kewajiban| hukdis ringan| Pasal 3| 7| berdampak negatif pada unit kerja|
+kewajiban| hukdis ringan| Pasal 3| 8| berdampak negatif pada unit kerja|
+kewajiban| hukdis ringan| Pasal 3| 9| berdampak negatif pada unit kerja|
+kewajiban| hukdis ringan| Pasal 3| 10| berdampak negatif pada unit kerja|
+kewajiban| hukdis ringan| Pasal 3| 13| berdampak negatif pada unit kerja|
+kewajiban| hukdis ringan| Pasal 3| 17| berdampak negatif pada unit kerja|
+kewajiban| hukdis sedang| Pasal 3| 1| pelanggaran dilakukan tanpa alasan yang sah|
+kewajiban| hukdis sedang| Pasal 3| 2| pelanggaran dilakukan tanpa alasan yang sah|
+kewajiban| hukdis sedang| Pasal 3| 3| berdampak negatif pada instansi yang bersangkutan|
+kewajiban| hukdis sedang| Pasal 3| 4| berdampak negatif pada instansi yang bersangkutan|
+kewajiban| hukdis sedang| Pasal 3| 5| berdampak negatif pada instansi yang bersangkutan|
+kewajiban| hukdis sedang| Pasal 3| 6| berdampak negatif pada instansi yang bersangkutan|
+kewajiban| hukdis sedang| Pasal 3| 7| berdampak negatif pada instansi yang bersangkutan|
+kewajiban| hukdis sedang| Pasal 3| 8| berdampak negatif pada instansi yang bersangkutan|
+kewajiban| hukdis sedang| Pasal 3| 9| berdampak negatif pada instansi yang bersangkutan|
+kewajiban| hukdis sedang| Pasal 3| 10| berdampak negatif pada instansi yang bersangkutan|
+kewajiban| hukdis sedang| Pasal 3| 13| berdampak negatif pada instansi yang bersangkutan|
+kewajiban| hukdis sedang| Pasal 3| 17| berdampak negatif pada instansi yang bersangkutan|
+kewajiban| hukdis sedang| Pasal 3| 12| berdampak negatif pada instansi yang bersangkutan| pencapaian sasaran kerja pada akhir tahun hanya mencapai 25% s/d 50 %|
+kewajiban| hukdis sedang| Pasal 3| 14| sesuai dengan ketentuan peraturan perundangundangan|
+kewajiban| hukdis sedang| Pasal 3| 15| apabila pelanggaran dilakukan dengan sengaja|
+kewajiban| hukdis sedang| Pasal 3| 16| apabila pelanggaran dilakukan dengan sengaja|
+kewajiban| hukdis berat| Pasal 3| 3| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+kewajiban| hukdis berat| Pasal 3| 4| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+kewajiban| hukdis berat| Pasal 3| 5| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+kewajiban| hukdis berat| Pasal 3| 6| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+kewajiban| hukdis berat| Pasal 3| 7| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+kewajiban| hukdis berat| Pasal 3| 8| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+kewajiban| hukdis berat| Pasal 3| 9| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+kewajiban| hukdis berat| Pasal 3| 10| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+kewajiban| hukdis berat| Pasal 3| 13| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+kewajiban| hukdis berat| Pasal 3| 17| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+kewajiban| hukdis berat| Pasal 3| 12| apabila pencapaian sasaran kerja pada akhir tahun hanya mencapai kurang dari 25%| dan
+kewajiban| hukdis berat| Pasal 3| 14| sesuai dengan ketentuan peraturan perundangundangan.
+larangan| hukdis ringan| Pasal 4| 5|  apabila pelanggaran berdampak negatif pada unit kerja|
+larangan| hukdis ringan| Pasal 4| 6|  apabila pelanggaran berdampak negatif pada unit kerja|
+larangan| hukdis ringan| Pasal 4| 11|  apabila pelanggaran berdampak negatif pada unit kerja|
+larangan| hukdis ringan| Pasal 4| 9| apabila pelanggaran dilakukan dengan tidak sengaja| dan
+larangan| hukdis ringan| Pasal 4| 10| sesuai dengan ketentuan peraturan perundang-undangan.
+larangan| hukdis sedang| Pasal 4| 5| apabila pelanggaran berdampak negatif pada instansi yang bersangkutan|
+larangan| hukdis sedang| Pasal 4| 6| apabila pelanggaran berdampak negatif pada instansi yang bersangkutan|
+larangan| hukdis sedang| Pasal 4| 11| apabila pelanggaran berdampak negatif pada instansi yang bersangkutan|
+larangan| hukdis sedang| Pasal 4| 9| apabila pelanggaran dilakukan dengan sengaja|
+larangan| hukdis sedang| Pasal 4| 10| sesuai dengan ketentuan peraturan perundang-undangan
+larangan| hukdis sedang| Pasal 4| 12 huruf a, b, dan c|-
+larangan| hukdis sedang| Pasal 4| 13 huruf b|-
+larangan| hukdis sedang| Pasal 4| 14|-
+larangan| hukdis sedang| Pasal 4| 15 huruf a dan d|-
+larangan| hukdis berat| Pasal 4| 1| -
+larangan| hukdis berat| Pasal 4| 2| -
+larangan| hukdis berat| Pasal 4| 3| -
+larangan| hukdis berat| Pasal 4| 4| -
+larangan| hukdis berat| Pasal 4| 5| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+larangan| hukdis berat| Pasal 4| 6| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+larangan| hukdis berat| Pasal 4| 11| apabila pelanggaran berdampak negatif pada pemerintah dan/atau negara|
+larangan| hukdis berat| Pasal 4| 7| -
+larangan| hukdis berat| Pasal 4| 8| -
+larangan| hukdis berat| Pasal 4| 10| sesuai dengan ketentuan peraturan perundang-undangan|
+larangan| hukdis berat| Pasal 4| 12 huruf d| -
+larangan| hukdis berat| Pasal 4| 13 huruf a| -
+larangan| hukdis berat| Pasal 4| 15 huruf b dan c| -
+kerja| hukdis ringan| -|Tidak masuk kerja tanpa alasan yang sah selama 5 (lima) hari kerja| -
+kerja| hukdis ringan| -| Tidak masuk kerja tanpa alasan yang sah selama 6 (enam) hari kerja sampai dengan 10 (sepuluh) hari kerja| -
+kerja| hukdis ringan| -|Tidak masuk kerja tanpa alasan yang sah selama 11 (sebelas) hari kerja sampai dengan 15 (lima belas) hari kerja| -
+kerja| hukdis sedang| -| Tidak masuk kerja tanpa alasan yang sah selama 16 (enam belas) hari kerja sampai dengan 20 (dua puluh) hari kerja| -
+kerja| hukdis sedang| -| Tidak masuk kerja tanpa alasan yang sah selama 21 (dua puluh satu) hari kerja sampai dengan 25 (dua puluh lima) hari kerja| -
+kerja| hukdis sedang| -| Tidak masuk kerja tanpa alasan yang sah selama 26 (dua puluh enam) hari kerja sampai dengan 30 (tiga puluh) hari kerja| -
+kerja| hukdis berat| -| Tidak masuk kerja tanpa alasan yang sah selama 31 (tiga puluh satu) hari kerja sampai dengan 35 (tiga puluh lima) hari kerja| -
+kerja| hukdis berat| -| Tidak masuk kerja tanpa alasan yang sah selama 36 (tiga puluh enam) hari kerja sampai dengan 40 (empat puluh) hari kerja| -
+kerja| hukdis berat| -| Tidak masuk kerja tanpa alasan yang sah selama 41 (empat puluh satu) hari kerja sampai dengan 45 (empat puluh lima) hari kerja| -
+kerja| hukdis berat| -| Tidak masuk kerja tanpa alasan yang sah selama 46 (empat puluh enam) hari kerja atau lebih| -
